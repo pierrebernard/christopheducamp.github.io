@@ -1,30 +1,30 @@
-# Welcome to Jekyll!
+# Bienvenue sur Jekyll
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+# Ce fichier de configuration est destiné aux paramètres qui affectent tout votre blog, les valeurs
+# que vous êtes censé.e mettre en place une fois et rarement éditer après cela. Si vous vous retrouvez
+# à éditer ce fichier très souvent, pensez à utiliser les fichiers de données de Jekyll
+# pour les données que vous devez mettre à jour fréquemment.
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Pour des raisons techniques, ce fichier n'est *PAS* rechargé automatiquement lorsque vous utilisez
+# 'bundle exec jekyll servir'. Si vous modifiez ce fichier, redémarrez le processus serveur.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# Paramètres du site
+# Ils sont utilisés pour personnaliser votre nouveau site. Si vous regardez dans les fichiers HTML,
+# vous verrez leur accès via {{site.title}}, {{site.email}}, et ainsi de suite.
+# Vous pouvez créer n'importe quelle variable personnalisée que vous voulez, et elles seront accessibles
+# dans les modèles via {{site.myvariable}}.
 
-# Build settings
+title: Christophe Ducamp
+email: christophe@ducamp.me
+description: > # ceci signifie d'ignorer les nouvelles lignes jusqu'à "baseurl:"
+  Un premier pas pour étudier la configuration d'un site statique hébergé sur Github Pages. 
+  Intention : apprendre à configurer un site personnel pour mes enfants et amis.
+baseurl: "" # le sous-chemin de votre site, par exemple /blog
+url: "http://christophe.ducamp.me" # le nom d'hébergeur et protocole de base de votre site, par exemple http://exemple.com
+twitter_username: xtof_fr
+github_username:  ChristopheDucamp
+
+# Paramètres de construction
 markdown: kramdown
 theme: minima
 gems:
