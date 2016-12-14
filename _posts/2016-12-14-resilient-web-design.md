@@ -1,6 +1,6 @@
 ---
 title: 'Lecture : Design Web Résilient'
-date: 2016-12-15 08:13:00 Z
+date: 2016-12-14 09:13:00 +01:00
 tags:
 - lecture
 layout: post
