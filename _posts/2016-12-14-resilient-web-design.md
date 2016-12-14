@@ -3,13 +3,26 @@ title: 'Lecture : Design Web Résilient'
 date: 2016-12-14 09:13:00 +01:00
 tags:
 - lecture
+- inspiration
+- design
+- web
 layout: post
 ---
 
-À emporter sur tablette. [resilientwebdesign.com](https://resilientwebdesign.com/) by <span class="h-card">[Jeremy Keith](http://adactio.com)</span> 
+Tombé ce matin sur ce post de <span class="h-card">[Jeremy Keith](http://adactio.com)</span>, une de mes première muses sur le design indieweb... : [Introducing Resilient Web Design](https://adactio.com/journal/11608)
 
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">I wrote a web book. It’s called Resilient Web Design. It’s yours for free. I hope you like it.<a href="https://t.co/1KTkudqZ5V">https://t.co/1KTkudqZ5V</a></p>— Jeremy Keith (@adactio) <a href="https://twitter.com/adactio/status/808705320851767296">13 décembre 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+> I wrote a thing. The thing is a book. But the book is not published on paper. This book is on the web. It’s a web book. Or “wook” if you prefer …please don’t prefer. Here it is:
 
-![resilient-web-design](/uploads/resilient-web-design-jeremy-keith.png)
+> [Resilient Web Design](https://resilientwebdesign.com/).
+
+> It’s yours for free.
+
+> Much of the subject matter will be familiar if you’ve seen my conference talks from the past couple of years, particularly [Enhance!](https://adactio.com/articles/9465) and [Resilience](https://adactio.com/articles/11481). But the book ended up taking some twists and turns that surprised me. It turned out to be a bit of a history book: the history of design, the history of the web.
+
+> [Resilient Web Design](https://resilientwebdesign.com/) is a short book. It’s between sixteen and seventeen megawords long. You could read the whole thing in a couple of hours. Or—because the book has seven chapters—you could take fifteen to twenty minutes out of a day to read one chapter and you’d have read the whole thing done in a week.(...) 
+
+Un wook envoyé sur ma tablette. Très envie de me remettre à Noël dans la compréhension et la construction amateure de petits sites web.
+
+![resilient-web-design](/uploads/resilient-web-design-jeremy-keith.png)  
+
 
