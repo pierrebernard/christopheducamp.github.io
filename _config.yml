@@ -1,6 +1,6 @@
 ---
 title: Christophe Ducamp
-timezone: UTC
+timezone: Europe/Paris
 collections:
   posts:
     title: Posts
@@ -14,7 +14,7 @@ description: 'Un premier pas pour étudier la configuration d''un site statique 
   enfants et amis.
 
 '
-baseurl: ''
+baseurl: 
 url: http://christophe.ducamp.me
 twitter_username: xtof_fr
 github_username: ChristopheDucamp
