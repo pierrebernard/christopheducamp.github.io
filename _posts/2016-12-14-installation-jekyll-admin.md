@@ -29,9 +29,9 @@ Ce qui visuellement pour ce post, l'interface sur la fenêtre de publication res
 
 ## Prochaines étapes 
 
-### Interfaces pour ajouter des posts 
+### Interface-utilisateur pour ajouter des posts 
 
-* Essayer des interfaces plus conviviales à recommander pour ajouter de nouveaux posts comme GitHub/[Prose.io](http://prose.io), [Forestry.io](http://forestry.io) et autres :  
+* [Edit] Work in progress. Séduit par SiteLeaf après avoir essayé quelques alternatives afin de trouver une interface-utilisateur plus conviviale afin d'inviter des utilisateurs néophytes à publier. Petit tour rapide sur GitHub/[Prose.io](http://prose.io), [Forestry.io](http://forestry.io) et [Site Leaf](https://www.siteleaf.com/) suite aux recommandations de Frank :  
 
 > Tu peux commencer avec Github/Prose.io, sous Jekyll Siteleaf ou Forestry.io sont très simples d’utilisation, CloudCannon c’est encore le niveau au dessus avec l’édition de régions côté front. Un peu plus technique et plus complet : Contenful ou Prismic.io qui permettent de générer les structures de contenus via un service et génèrent une API pour ses contenus consommable par d’autres services. (Frank Taillandier, [jamstatic](https://jamstatic-fr.slack.com/?redir=%2Farchives%2Fgeneral%2Fp1481708085000019), 2016-12-14)
 
