@@ -1,5 +1,5 @@
 ---
-title: Une sculpture inspirée par la collaboration
+title: Une sculpture inspirée par l'esprit de collaboration
 date: 2016-12-14 12:08:00 +01:00
 tags:
 - art
