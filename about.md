@@ -1,7 +1,7 @@
 ---
-layout: page
 title: À propos
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 Première installation avec le thème de base de Jekyll. Ici j'essaye de repartir de zéro pour héberger ce site chez GitHub et pointer un sous-domaine chez Gandi. Modifié les DNS.

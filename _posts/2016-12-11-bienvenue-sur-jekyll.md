@@ -1,8 +1,10 @@
 ---
 title: Retour sur Jekyll !
+date: 2016-12-11 05:57:17 Z
+categories:
+- jekyll
+- update
 layout: post
-date: '2016-12-11 06:57:17 +0100'
-categories: jekyll update
 ---
 
 L'hiver arrive, temps de reprendre les explorations et [quelques engagements indieweb](https://indieweb.org/2017-01-01-commitments) où j'aimerais m'engager publiquement pour implémenter de nouvelles fonctionnalités sur mon site personnel.

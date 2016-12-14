@@ -1,9 +1,9 @@
 ---
 title: 'Lecture : Design Web Résilient'
+date: 2016-12-15 08:13:05 Z
+tags:
+- lecture
 layout: post
-date: '2016-12-15 08:13:05'
-published: true
-tags: lecture
 ---
 
 A charger sur tablette.
@@ -14,4 +14,3 @@ A charger sur tablette.
 
 
 ![resilient-web-design]({{site.baseurl}}/_posts/resilient-web-design-adactio.jpg)
-

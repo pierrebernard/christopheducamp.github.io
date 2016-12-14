@@ -1,8 +1,10 @@
 ---
 title: Installation jekyll-admin
+date: 2016-12-14 06:53:19 Z
+tags:
+- plugin
+- jekyll
 layout: post
-date: '2016-12-14 06:53:19'
-tags: plugin jekyll
 ---
 
 Pour faciliter l'ajout de nouveaux posts, installé pour essayer un plugin de Jekyll qui se rapproche d'une interface graphique de type CMS pour publier du contenu et administrer les sites Jekyll :
