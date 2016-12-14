@@ -4,6 +4,8 @@ date: 2016-12-14 07:53:00 +01:00
 tags:
 - plugin
 - jekyll
+- ux
+- ui
 layout: post
 ---
 
@@ -11,25 +13,23 @@ Pour faciliter l'ajout de nouveaux posts, installé pour essayer un plugin de Je
 
 [https://jekyll.github.io/jekyll-admin/](https://jekyll.github.io/jekyll-admin/)
 
-Curieux de ne pas avoir intégré par défaut la mise à jour automatique des champs de métadonnées pour les posts ? 
+Un gros progrès comparé à l'ajout manuel de post. Je trouve curieux de ne pas avoir intégré par défaut la mise à jour automatique des champs de métadonnées pour les posts ? 
 
-## Ajout de post 
+## Ajout de post avec jekyll-admin
 
-Pensez à ajouter quelques champs de métadonnées. Dans mon cas, en reprenant l'exemple du premier post, j'ai ajouté au-dessous de la fenêtre de publication les 3 champs de méta-données : 
+Si vous optez pour jekyll-admin, pensez à ajouter quelques champs de métadonnées. Dans mon cas et en m'appuyant sur l'exemple du premier post, j'ai donc ajouté au-dessous de la fenêtre de publication les 3 champs de méta-données : 
 
 1. le `layout` avec `post`
 2. un champ `date` 
 3. un champ `tags`  
 
-Ce qui visuellement pour ce post ressemble à ce qui suit.
+Ce qui visuellement pour ce post, l'interface sur la fenêtre de publication ressemble à ce qui suit : 
 
 ![jekyll-plugin-metadata](/Jekyll%20Admin%202016-12-14%2007-02-14.png)
 
-
-
 ## Prochaines étapes 
 ### Interfaces pour ajouter des posts 
-* Essayer des interfaces plus conviviales à recommander pour ajouter de nouveaux posts comme GitHub/Prose.io, Forestry.io 
+* Essayer des interfaces plus conviviales à recommander pour ajouter de nouveaux posts comme GitHub/[Prose.io](http://prose.io), [Forestry.io](http://forestry.io) et autres :  
 
 > Tu peux commencer avec Github/Prose.io, sous Jekyll Siteleaf ou Forestry.io sont très simples d’utilisation, CloudCannon c’est encore le niveau au dessus avec l’édition de régions côté front. Un peu plus technique et plus complet : Contenful ou Prismic.io qui permettent de générer les structures de contenus via un service et génèrent une API pour ses contenus consommable par d’autres services. (Frank Taillandier, [jamstatic](https://jamstatic-fr.slack.com/?redir=%2Farchives%2Fgeneral%2Fp1481708085000019), 2016-12-14)
 
@@ -39,5 +39,5 @@ Ce qui visuellement pour ce post ressemble à ce qui suit.
 ### Autres travaux à envisager  
 * Localiser la date en français : trouver une technique plus propre que [mon vieux bricolage](http://christopheducamp.com/2013/12/26/jekyll-localiser-la-date/)
 * Ajouter un certificat SSL sur le sous-domaine avec pointage vers GitHub
-* Premier pas vers l'[indiewebfication](https://indiewebify.me/) : installer une connexion web avec l'ajout de 'rel=me' dans le thème minima à retrouver... 
+* Premier pas vers l'[indiewebfication](https://indiewebify.me/) : installer une connexion web avec l'ajout d'un 'rel=me' dans le thème minima à retrouver... 
 
