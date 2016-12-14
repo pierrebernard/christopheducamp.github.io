@@ -17,7 +17,7 @@
 title: Christophe Ducamp
 email: christophe@ducamp.me
 description: > # ceci signifie d'ignorer les nouvelles lignes jusqu'à "baseurl:"
-  Un premier pas pour étudier la configuration d'un site statique hébergé sur Github Pages. 
+  Un premier pas pour étudier la configuration d'un site statique hébergé sur Github Pages.
   Intention : apprendre à configurer un site personnel pour mes enfants et amis.
 baseurl: "" # le sous-chemin de votre site, par exemple /blog
 url: "http://christophe.ducamp.me" # le nom d'hébergeur et protocole de base de votre site, par exemple http://exemple.com
