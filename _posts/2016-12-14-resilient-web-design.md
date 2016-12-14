@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Tombé ce matin sur ce post de <span class="h-card">[Jeremy Keith](http://adactio.com)</span>, une de mes première muses sur le design indieweb... : [Introducing Resilient Web Design](https://adactio.com/journal/11608)
+Tombé ce matin sur ce post de <span class="h-card">[Jeremy Keith](http://adactio.com)</span>, une de mes premières muses sur le design indieweb... : [Introducing Resilient Web Design](https://adactio.com/journal/11608)
 
 > I wrote a thing. The thing is a book. But the book is not published on paper. This book is on the web. It’s a web book. Or “wook” if you prefer …please don’t prefer. Here it is:
 
