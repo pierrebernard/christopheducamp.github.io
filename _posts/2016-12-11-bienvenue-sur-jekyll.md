@@ -34,7 +34,9 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Pour plus d'informations, regarder la [doc de Jekyll docs][jekyll-docs]. Si vous avez des questions, vous pouvez les poser sur  [Jekyll Talk][jekyll-talk].
+Pour plus d'informations, regarder la [doc de Jekyll docs][jekyll-docs]. 
+
+Si vous avez des questions, vous pouvez les poser sur  [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
