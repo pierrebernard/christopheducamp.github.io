@@ -25,10 +25,10 @@ Ce qui visuellement pour ce post ressemble à ce qui suit.
 
 
 
-## Prochaine étape 
+## Prochaines étapes 
 
 * Trouver  des interfaces plus conviviales à recommander pour ajouter de nouveaux posts ? 
-* Localiser la date en français
+* Localiser la date en français : trouver une technique plus propre que [mon vieux bricolage](http://christopheducamp.com/2013/12/26/jekyll-localiser-la-date/)
 * Ajouter un certificat SSL sur le sous-domaine avec pointage vers GitHub
-* Premier pas vers l'[indiewebfication](http://indiewebify.com) 
+* Premier pas vers l'[indiewebfication](https://indiewebify.me/) : installer une connexion web avec l'ajout de 'rel=me' dans le thème minima à retrouver... 
 
