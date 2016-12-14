@@ -23,6 +23,8 @@ Tombé ce matin sur ce post de <span class="h-card">[Jeremy Keith](http://adacti
 
 Un wook envoyé sur ma tablette. Très envie de me remettre à Noël dans la compréhension et la construction amateure de petits sites web.
 
+![Send to Kindle 2016-12-14 13-51-00.png](/uploads/Send%20to%20Kindle%202016-12-14%2013-51-00.png)
+
 ![resilient-web-design](/uploads/resilient-web-design-jeremy-keith.png)  
 
 
