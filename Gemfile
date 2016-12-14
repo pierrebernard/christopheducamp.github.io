@@ -1,13 +1,14 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
-# Hello ! C’est l’endroit où vous gérez la version de Jekyll à utiliser pour tourner.
-# Quand vous voulez utiliser une version différente, modifiez-la en-dessous, sauvegardez 
-# le fichier et lancez `bundle install`. Lancez Jekyll avec `bundle exec`, comme ceci :
+# Ceci aidera à vous assurer que la bonne version de Jekyll est en train de tourner.
+# Salut ! C'est l'endroit où vous gérez la version de Jekyll utilisée pour fonctionner.
+# Si vous voulez utiliser une version différente, modifiez en-dessous, et sauvegardez le 
+# fichier puis lancez `bundle install`. Lancez Jekyll avec `bundle exec`, comme suit :
 #
 #     bundle exec jekyll serve
 #
-# Ceci aidera à vous assurer que la bonne version de Jekyll est en train de tourner.
+# Ceci vous aidera à vous assurer que la bonne version de Jekyll fonctionne.
 # Happy Jekylling!
 # gem "jekyll", "3.3.1"
 
@@ -15,7 +16,7 @@ ruby RUBY_VERSION
 gem "minima", "~> 2.0"
 
 # Si vous voulez utiliser GitHub Pages, retirer la "gem "jekyll"" au-dessus
-# et décommentez la ligne ci-dessous. Pour une mise à jour, lancez `bundle update github-pages`.
+# et retirer le commentaire sur la ligne en-dessous. Pour une mise à jour, lancez `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
 # Si vous avez des plugins, placez-les ici ! 
