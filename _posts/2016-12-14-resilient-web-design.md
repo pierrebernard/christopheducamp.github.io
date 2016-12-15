@@ -19,12 +19,18 @@ Tombé ce matin sur ce post de <span class="h-card">[Jeremy Keith](http://adacti
 
 > Much of the subject matter will be familiar if you’ve seen my conference talks from the past couple of years, particularly [Enhance!](https://adactio.com/articles/9465) and [Resilience](https://adactio.com/articles/11481). But the book ended up taking some twists and turns that surprised me. It turned out to be a bit of a history book: the history of design, the history of the web.
 
-> [Resilient Web Design](https://resilientwebdesign.com/) is a short book. It’s between sixteen and seventeen megawords long. You could read the whole thing in a couple of hours. Or—because the book has seven chapters—you could take fifteen to twenty minutes out of a day to read one chapter and you’d have read the whole thing done in a week.(...) 
-
-Un wook envoyé sur ma tablette. Très envie de me remettre à Noël dans la compréhension et la construction amateure de petits sites web.
+> [Resilient Web Design](https://resilientwebdesign.com/) is a short book. It’s between sixteen and seventeen megawords long. You could read the whole thing in a couple of hours. Or—because the book has seven chapters—you could take fifteen to twenty minutes out of a day to read one chapter and you’d have read the whole thing done in a week.(...)
 
 ![Send to Kindle 2016-12-14 13-51-00.png](/uploads/Send%20to%20Kindle%202016-12-14%2013-51-00.png)
 
-![resilient-web-design](/uploads/resilient-web-design-jeremy-keith.png)  
+Premier réflexe, envoyer ce wook sur ma tablette... 
 
+Erreur, c'est un pdf et la taille de la typo est trop petite pour mes yeux de vieillard.
 
+Tapé l'URL canonique [https://resilientwebdesign.com/](https://resilientwebdesign.com/) dans le navigateur de mon téléphone, et tout revient en ordre... Parcouru rapidement les chapitres : l'ensemble est magnifiquement agencé. Un exemple remarquable qui devrait inspirer les éditeurs.
+
+Placé une icône de raccourci, sur la page d'accueil de mon téléphone.
+
+Heureux d'avoir placé le cerveau de Jeremy dans ma poche.
+
+![resilient-web-design](/uploads/resilient-web-design-jeremy-keith.png)
