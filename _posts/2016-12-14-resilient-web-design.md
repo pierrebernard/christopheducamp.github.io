@@ -23,14 +23,10 @@ Tombé ce matin sur ce post de <span class="h-card">[Jeremy Keith](http://adacti
 
 ![Send to Kindle 2016-12-14 13-51-00.png](/uploads/Send%20to%20Kindle%202016-12-14%2013-51-00.png)
 
-Premier réflexe, envoyer ce wook sur ma tablette... 
+Un wook envoyé sur ma tablette. Grave erreur : le design pdf n'est pas responsive, et la taille de la typo est bien petite pour mes yeux de vieillard.  
 
-Erreur, c'est un pdf et la taille de la typo est trop petite pour mes yeux de vieillard.
+Retour sur mon téléphone. Tapé l'URL canonique **[https://resilientwebdesign.com/](https://resilientwebdesign.com/)** dans la barre d'adresse de mon navigateur. L'ensemble est remarquablement architecturé, lisible. Un exemple de design à recommander à tous les éditeurs.
 
-Tapé l'URL canonique [https://resilientwebdesign.com/](https://resilientwebdesign.com/) dans le navigateur de mon téléphone, et tout revient en ordre... Parcouru rapidement les chapitres : l'ensemble est magnifiquement agencé. Un exemple remarquable qui devrait inspirer les éditeurs.
-
-Placé une icône de raccourci, sur la page d'accueil de mon téléphone.
-
-Heureux d'avoir placé le cerveau de Jeremy dans ma poche.
+Très heureux aujourd'hui, d'avoir placé le cerveau de Jeremy dans ma poche ! 
 
 ![resilient-web-design](/uploads/resilient-web-design-jeremy-keith.png)
