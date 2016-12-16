@@ -44,11 +44,11 @@ Très heureux d'avancer tranquillement sous le regard bienveillant de la [commun
 
 ### Thème : toujours sur Minima
 
-Bien suivi les instructions pour passer en Minimal. Retour pour voir dans la fenêtre de Terminal. Installation de la gem du thème qui était non trouvé. Le layout posts n'existe pas dans Minimal ?
+Bien suivi les instructions pour passer en Minimal. Retour pour voir dans la fenêtre de Terminal. Installation de la gem du thème qui était non trouvé. Le layout posts n'existe pas dans Minimal.
 
 ![email-github-error-build.png](/uploads/email-github-error-build.png)
 
-Après résolution de ce bug à faire manuellement et arrêté un choix de thème, je [personnaliserai la CSS et le HTML](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) pour quelques premiers raffinages vers l'[indieweb(ification)](http://indiewebify.me).
+Après résolution de ce bug à faire manuellement et arrêté un choix de thème, je compte bien [personnaliser la CSS et le HTML](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) pour quelques premiers raffinages vers l'[indieweb(ification)](http://indiewebify.me).
 
 ### Autres travaux connexes sous le capot
 
