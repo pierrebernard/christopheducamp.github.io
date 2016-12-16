@@ -12,7 +12,7 @@ tags:
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Les premiers thèmes pour Jekyll arrivent sur GitHub \\o/ <a href="https://t.co/FiljDMuAc6">https://t.co/FiljDMuAc6</a></p>— Jamstatic-fr (@jamstatic_fr) <a href="https://twitter.com/jamstatic_fr/status/809514418656710658">15 décembre 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Essayé d'installer le [thème Minimal](https://github.com/pages-themes/minimal) pour quelques premiers tests en attendant l'arrivée d'autres thèmes de la communauté. Bien suivi la documentation...
+Essayé d'installer le [thème Minimal](https://github.com/pages-themes/minimal) sur un référentiel existant chez Github Pages pour quelques premiers tests en attendant l'arrivée d'autres thèmes de la communauté. Bien suivi la documentation...
 
 ## la documentation 
 
@@ -63,6 +63,7 @@ Après résolution de ce bug à faire manuellement et arrêté un choix de thèm
 * SSL : Certificat SSL effectué chez Gandi à paramétrer proprement pour le faire fonctionner sur ce sous-domaine de famille avec pointage vers GitHub Pages
 
 
-## En rapport et à étudier plus tard
+## En rapport et à faire plus tard
 
+* Essayer la documentation du dessus sur un nouveau référentiel
 * <span class="h-cite"><cite><span class="u-url p-name">[Créer un thème pour Jekyll](https://jamstatic.fr/2016/10/29/creer-un-theme-pour-jekyll/)</span></cite> - (<a class="p-author h-card" href="https://frank.taillandier.me/">Frank Taillandier</a>, <time class="dt-published">2016-10-29</time>)</span>
