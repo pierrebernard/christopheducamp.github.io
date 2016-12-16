@@ -36,7 +36,7 @@ Pour finir, les thèmes Jekyll dans le sélecteur de thèmes sont tous open sour
 
 Pour bricoler le HTML et la CSS du thème, consultez la [documentation](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/).
 
-## Statut à date sur cette branche
+<span id="statut">## Statut à date sur cette branche</span>
 
 Très heureux d'avancer tranquillement sous le regard bienveillant de la [communauté de développeurs jamstatic](https://jamstatic.fr/), malheureusement alerté par un e-mail de github, l'installation d'un nouveau thème échoue. 
 
