@@ -12,8 +12,19 @@ Je reste joignable sur twitter : <span rel="me" class="h-card">[@xtof_fr](https:
 
 ## À propos de ce site
 
-Première installation avec le thème de base de Jekyll. L'idée : accompagner mes enfants et amis sur l'indieweb. Sur cette branche (sous-domaine de ducamp.me), je repars de zéro pour apprendre la motorisation de sites statiques sous la bienveillance de la [communauté francophone jamstatic](http://jamstatic.fr)
+Première installation avec le thème de base de Jekyll. L'idée : accompagner mes enfants et amis sur l'indieweb. Sur cette branche (sous-domaine de ducamp.me), je repars de zéro pour apprendre la motorisation de sites statiques sous la bienveillance de la [communauté francophone jamstatic](http://jamstatic.fr). 
 
+
+### Champs d'intérêts et explorations professionnelles : 
+
+Non développeur, j'apprends ici quelques rudiments de code et mon exploration s'articule essentiellement sur 3 points  
+
+* nouvelles interfaces utilisateurs et UX mobile pour mettre à jour les sites statiques
+* design et paramétrage des thèmes
+* utilisabilité pour entrepreneurs néophytes 
+
+
+### Technique 
 Ce site est actuellement hébergé chez GitHub Pages via un pointage de DNS du sous-domaine chez Gandi.
 
 Vous pouvez trouver plus d'infos sur la personnalisation de votre thème Jekyll, tout comme une documentation sur l'usage de Jekyll sur [jekyllrb.com](http://jekyllrb.com/)
