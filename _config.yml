@@ -19,7 +19,7 @@ url: http://christophe.ducamp.me
 twitter_username: xtof_fr
 github_username: ChristopheDucamp
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-time-machine
 gems:
 - jekyll-feed
 exclude:
