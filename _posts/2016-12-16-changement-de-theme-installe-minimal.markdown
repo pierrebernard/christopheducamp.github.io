@@ -48,7 +48,7 @@ Très heureux d'avancer tranquillement sous le regard bienveillant de la [commun
 
 ### Thème : toujours sur Minima
 
-Bien suivi les instructions pour passer en Minimal. Retour pour voir dans la fenêtre de Terminal. Installation de la gem du thème qui était non trouvé. Le layout posts n'existe pas dans Minimal.
+Bien suivi les instructions pour passer en Minimal. Retour pour voir dans la fenêtre de Terminal. Installation de la gem du thème qui était non trouvée. Le layout posts n'existe pas dans Minimal.
 
 ![Erreur-theme-minimal-christopheducamp.github.io — -bash — 135×36 2016-12-16 06-15-50.png](/uploads/Erreur-theme-minimal-christopheducamp.github.io%20%E2%80%94%20-bash%20%E2%80%94%20135%C3%9736%202016-12-16%2006-15-50.png)
 
@@ -61,3 +61,8 @@ Après résolution de ce bug à faire manuellement et arrêté un choix de thèm
 * Localiser la date en francais : trouver une technique plus propre que [mon vieux bricolage](http://christopheducamp.com/2013/12/26/jekyll-localiser-la-date/)
 
 * SSL : Certificat SSL effectué chez Gandi à paramétrer proprement pour le faire fonctionner sur ce sous-domaine de famille avec pointage vers GitHub Pages
+
+
+## En rapport et à étudier plus tard
+
+* <span class="h-cite"><cite><span class="u-url p-name">[Créer un thème pour Jekyll](https://jamstatic.fr/2016/10/29/creer-un-theme-pour-jekyll/)</span></cite> - (<a class="p-author h-card" href="https://frank.taillandier.me/">Frank Taillandier</a>, <time class="dt-published">2016-10-29</time>)</span>
