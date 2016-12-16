@@ -1,5 +1,5 @@
 ---
-title: 'Changement de Thème : de Minima à Minimal'
+title: de Minima à Minimal...
 date: 2016-12-16 06:00:00 +01:00
 categories:
 - jekyll
@@ -12,7 +12,7 @@ tags:
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Les premiers thèmes pour Jekyll arrivent sur GitHub \\o/ <a href="https://t.co/FiljDMuAc6">https://t.co/FiljDMuAc6</a></p>— Jamstatic-fr (@jamstatic_fr) <a href="https://twitter.com/jamstatic_fr/status/809514418656710658">15 décembre 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Changement de thème sur cette branche. Choisi ce matin le [thème Minimal](https://github.com/pages-themes/minimal) pour quelques premiers tests en attendant l'arrivée d'autres thèmes de la communauté.
+Choisi ce matin d'essayer le [thème Minimal](https://github.com/pages-themes/minimal) pour quelques premiers tests en attendant l'arrivée d'autres thèmes de la communauté. Bien suivi la documentation.
 
 Vous aussi, construisez votre site web GitHub Pages avec un thème [Jekyll](https://jekyllrb.com) en quelques clics.
 
@@ -40,9 +40,13 @@ Pour bricoler le HTML et la CSS du thème, consultez la [documentation](https://
 
 Très heureux d'avancer tranquillement sous le regard bienveillant de la [communauté de développeurs jamstatic](https://jamstatic.fr/)
 
-### Thème
+### Thème : toujours sur Minima
 
-Après avoir arrêté mon choix de thème, je [personnaliserai la CSS et le HTML](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) pour quelques premiers raffinages vers l'[indieweb(ification)](http://indiewebify.me).
+Bien suivi les instructions pour passer en Minimal. Messages d'erreur de "build" reçus par email de la part de Github. Retour dans la fenêtre de Terminal. Le layout posts n'existe pas dans Minimal ?
+
+![Erreur-theme-minimal-christopheducamp.github.io — -bash — 135×36 2016-12-16 06-15-50.png](/uploads/Erreur-theme-minimal-christopheducamp.github.io%20%E2%80%94%20-bash%20%E2%80%94%20135%C3%9736%202016-12-16%2006-15-50.png)
+
+Après résolu ce bug et arrêté un choix de thème, je [personnaliserai la CSS et le HTML](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) pour quelques premiers raffinages vers l'[indieweb(ification)](http://indiewebify.me).
 
 ### Autres travaux connexes sous le capot
 
