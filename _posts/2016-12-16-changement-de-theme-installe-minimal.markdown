@@ -1,5 +1,5 @@
 ---
-title: de Minima à Minimal...
+title: 'thème Jekyll : de Minima à Minima...'
 date: 2016-12-16 06:00:00 +01:00
 categories:
 - jekyll
@@ -12,7 +12,7 @@ tags:
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Les premiers thèmes pour Jekyll arrivent sur GitHub \\o/ <a href="https://t.co/FiljDMuAc6">https://t.co/FiljDMuAc6</a></p>— Jamstatic-fr (@jamstatic_fr) <a href="https://twitter.com/jamstatic_fr/status/809514418656710658">15 décembre 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Choisi ce matin d'essayer le [thème Minimal](https://github.com/pages-themes/minimal) pour quelques premiers tests en attendant l'arrivée d'autres thèmes de la communauté. Bien suivi la documentation.
+Choisi ce matin d'essayer le [thème Minimal](https://github.com/pages-themes/minimal) pour quelques premiers tests en attendant l'arrivée d'autres thèmes de la communauté. Bien suivi la documentation :
 
 Vous aussi, construisez votre site web GitHub Pages avec un thème [Jekyll](https://jekyllrb.com) en quelques clics.
 
@@ -38,15 +38,17 @@ Pour bricoler le HTML et la CSS du thème, consultez la [documentation](https://
 
 ## Statut à date sur cette branche
 
-Très heureux d'avancer tranquillement sous le regard bienveillant de la [communauté de développeurs jamstatic](https://jamstatic.fr/)
+Très heureux d'avancer tranquillement sous le regard bienveillant de la [communauté de développeurs jamstatic](https://jamstatic.fr/), malheureusement alerté par un e-mail de github, l'installation d'un nouveau thème échoue. 
+
+![email-github-error-build.png](/uploads/email-github-error-build.png)
 
 ### Thème : toujours sur Minima
 
-Bien suivi les instructions pour passer en Minimal. Messages d'erreur de "build" reçus par email de la part de Github. Retour dans la fenêtre de Terminal. Le layout posts n'existe pas dans Minimal ?
+Bien suivi les instructions pour passer en Minimal. Retour pour voir dans la fenêtre de Terminal. Installation de la gem du thème qui était non trouvé. Le layout posts n'existe pas dans Minimal ?
 
 ![Erreur-theme-minimal-christopheducamp.github.io — -bash — 135×36 2016-12-16 06-15-50.png](/uploads/Erreur-theme-minimal-christopheducamp.github.io%20%E2%80%94%20-bash%20%E2%80%94%20135%C3%9736%202016-12-16%2006-15-50.png)
 
-Après résolu ce bug et arrêté un choix de thème, je [personnaliserai la CSS et le HTML](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) pour quelques premiers raffinages vers l'[indieweb(ification)](http://indiewebify.me).
+Après résolution de ce bug à faire manuellement et arrêté un choix de thème, je [personnaliserai la CSS et le HTML](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) pour quelques premiers raffinages vers l'[indieweb(ification)](http://indiewebify.me).
 
 ### Autres travaux connexes sous le capot
 
