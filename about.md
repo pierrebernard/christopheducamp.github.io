@@ -4,14 +4,24 @@ permalink: "/about/"
 layout: page
 ---
 
-Première installation avec le thème de base de Jekyll. Ici j'essaye de repartir de zéro pour héberger ce site chez GitHub et pointer un sous-domaine chez Gandi. Modifié les DNS.
+## À propos de moi
+
+Dans la vraie vie, je suis père de famille et entrepreneur indépendant. Mes passions en cours évoluent autour du design social urbain et je suis heureux d'accompagner quelques communautés, entrepreneurs et artistes sur leur stratégie numérique.
+
+Je reste joignable sur twitter : <span rel="me" class="h-card">[@xtof_fr](https://twitter.com/xtof_fr)</span>
+
+## À propos de ce site
+
+Première installation avec le thème de base de Jekyll. L'idée : accompagner mes enfants et amis sur l'indieweb. Sur cette branche (sous-domaine de ducamp.me), je repars de zéro pour apprendre la motorisation de sites statiques sous la bienveillance de la [communauté francophone jamstatic](http://jamstatic.fr)
+
+Ce site est actuellement hébergé chez GitHub Pages via un pointage de DNS du sous-domaine chez Gandi.
 
 Vous pouvez trouver plus d'infos sur la personnalisation de votre thème Jekyll, tout comme une documentation sur l'usage de Jekyll sur [jekyllrb.com](http://jekyllrb.com/)
 
-Le code source pour le nouveau thème de Jekyll est disponible sur : 
+Le code source pour le nouveau thème de Jekyll est disponible sur :
 {% include icon-github.html username="jekyll" %} /
 [minima](https://github.com/jekyll/minima)
 
-Le code source de Jekyll sur 
+Le code source de Jekyll sur
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
