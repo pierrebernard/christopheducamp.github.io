@@ -12,7 +12,7 @@ tags:
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Les premiers thèmes pour Jekyll arrivent sur GitHub \\o/ <a href="https://t.co/FiljDMuAc6">https://t.co/FiljDMuAc6</a></p>— Jamstatic-fr (@jamstatic_fr) <a href="https://twitter.com/jamstatic_fr/status/809514418656710658">15 décembre 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Essayé d'installer le [thème Minimal](https://github.com/pages-themes/minimal) pour quelques premiers tests en attendant l'arrivée d'autres thèmes de la communauté. Bien suivi la documentation :
+Essayé d'installer le [thème Minimal](https://github.com/pages-themes/minimal) pour quelques premiers tests en attendant l'arrivée d'autres thèmes de la communauté. Bien suivi la documentation...
 
 Vous aussi, construisez votre site web GitHub Pages avec un thème [Jekyll](https://jekyllrb.com) en quelques clics.
 
@@ -38,7 +38,7 @@ Pour bricoler le HTML et la CSS du thème, consultez la [documentation](https://
 
 <span id="statut"></span>
 
-## Statut à date sur cette branche
+## Statut
 
 Très heureux d'avancer tranquillement sous le regard bienveillant de la [communauté de développeurs jamstatic](https://jamstatic.fr/), malheureusement alerté par un e-mail de github, l'installation d'un nouveau thème échoue. 
 
