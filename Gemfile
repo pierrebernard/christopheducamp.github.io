@@ -12,7 +12,7 @@ ruby RUBY_VERSION
 # gem "jekyll", "3.3.1"
 
 # Ceci est le thème par défaut pour les nouveaux sites Jekyll. Vous pouvez changer ça comme vous voulez.
-gem "jekyll-theme-minimal"
+gem "jekyll-theme-time-machine"
 
 # Si vous voulez utiliser GitHub Pages, retirez la "gem "jekyll"" au-dessus
 # et dé-commentez la ligne du dessous. Pour une mise à jour, lancez  `bundle update github-pages`.
