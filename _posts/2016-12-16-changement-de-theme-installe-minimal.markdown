@@ -14,6 +14,8 @@ tags:
 
 Essayé d'installer le [thème Minimal](https://github.com/pages-themes/minimal) pour quelques premiers tests en attendant l'arrivée d'autres thèmes de la communauté. Bien suivi la documentation...
 
+## la documentation 
+
 Vous aussi, construisez votre site web GitHub Pages avec un thème [Jekyll](https://jekyllrb.com) en quelques clics.
 
 1. Créez un [nouveau référentiel GitHub](https://github.com/new) ou allez sur un référentiel existant.
