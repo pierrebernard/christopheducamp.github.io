@@ -14,12 +14,12 @@ description: 'Un premier pas pour étudier la configuration d''un site statique 
   enfants et amis.
 
 '
-baseurl: 
+baseurl:
 url: http://christophe.ducamp.me
 twitter_username: xtof_fr
 github_username: ChristopheDucamp
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 gems:
 - jekyll-feed
 exclude:
