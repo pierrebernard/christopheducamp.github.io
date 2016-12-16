@@ -24,7 +24,7 @@ Vous aussi, construisez votre site web GitHub Pages avec un thème [Jekyll](http
 
 3. Sélectionnez un thème.
 
-![sélecteur de thème chez github-pages](/uploads/theme-chooser-jekyll.png)
+![theme-chooser-jekyll.png](/uploads/theme-chooser-jekyll.png)
 
 Utiliser un thème Jekyll veut dire que tout votre contenu de site web vit dans des fichiers Markdown, que vous pouvez modifier et gérer comme vous voulez en utilisant votre workflow Git préféré.
 
