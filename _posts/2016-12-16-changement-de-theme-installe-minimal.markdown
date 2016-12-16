@@ -46,7 +46,7 @@ Très heureux d'avancer tranquillement sous le regard bienveillant de la [commun
 
 Bien suivi les instructions pour passer en Minimal. Retour pour voir dans la fenêtre de Terminal. Installation de la gem du thème qui était non trouvé. Le layout posts n'existe pas dans Minimal.
 
-![email-github-error-build.png](/uploads/email-github-error-build.png)
+![Erreur-theme-minimal-christopheducamp.github.io — -bash — 135×36 2016-12-16 06-15-50.png](/uploads/Erreur-theme-minimal-christopheducamp.github.io%20%E2%80%94%20-bash%20%E2%80%94%20135%C3%9736%202016-12-16%2006-15-50.png)
 
 Après résolution de ce bug à faire manuellement et arrêté un choix de thème, je compte bien [personnaliser la CSS et le HTML](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) pour quelques premiers raffinages vers l'[indieweb(ification)](http://indiewebify.me).
 
